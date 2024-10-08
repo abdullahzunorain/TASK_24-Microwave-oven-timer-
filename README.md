@@ -1,5 +1,7 @@
 ## Task 24: Microwave Oven Timer Application
 
+![](mico_oven.jpg)
+
 #### Overview
 This task involves designing a typical **Microwave oven timer** using the **4x4 keypad** and **16x2 LCD** present on the STC development kit. The microwave timer will implement features such as start/pause, door safety switch, and buzzer notifications.
 
